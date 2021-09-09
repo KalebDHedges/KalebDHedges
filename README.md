@@ -2,6 +2,7 @@
 
 - 📚 I'm currently studying a Bachelor of Computer Science with a major in Cybersecurity at Swinburne University.
 - 💻 I'm currently working on my skills with the following languages: C/C++, Python, Javascript, Powershell, Java, and PHP.
+- 🕷 I'm currently learning/devoting most of my time to Malware Analysis.
 
 <!--
 **KalebDHedges/KalebDHedges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
