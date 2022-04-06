@@ -1,7 +1,7 @@
 ### Hi! I'm Kaleb Hedges.
 
 - 📚 I'm currently studying a Bachelor of Computer Science with a major in Cybersecurity at Swinburne University.
-- 💻 I'm currently working on my skills with the following languages: C/C++, Python, Javascript, Powershell, Java, and PHP.
+- 💻 I'm currently working on my skills with the following languages: C/C++, Python, Javascript, Powershell, and PHP.
 - 🕷 I'm currently learning/devoting most of my time to Malware Analysis.
 
 <!--
