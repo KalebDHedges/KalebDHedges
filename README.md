@@ -1,7 +1,9 @@
 # Hi! I'm Kaleb Hedges.
 
 I'm have just completed my bachelor of Computer Science, majoring in Cybersecurity, at Swinburne University.
+
 I love building small terminal applications for my own personal enjoyment (e.g. Generators for TTRPG's), and learning new programming languages.
+
 My main exposure to programming at large has been through self-learning prior to university (where I dabbled in arcane languages like *Common Lisp* and *Ada 2012*, as well as a little game development in *C++*) and then the university itself which has mainly comprised of elementary *C++*, *C#*, *JavaScript*, and *PHP*.
 
 Overall my developer skills are currently quite lacking:
@@ -34,6 +36,7 @@ Overall my developer skills are currently quite lacking:
     - _PHP_ : I enjoyed using it at Uni.
   - **Others**:
     - _C++_ : Systems programming / primary language.
+    - _Python_ : Great for getting small quick scripts going
 - **Secondary**:
   - **Just for Fun**:
     - _Odin_ : I have enjoyed dabbling with Odin so far will be fun to see it grow.
