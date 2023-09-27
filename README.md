@@ -1,6 +1,6 @@
 # Hi! I'm Kaleb Hedges.
 
-I'm have just completed my bachelor of Computer Science, majoring in Cybersecurity, at Swinburne University.
+I have just completed my bachelor of Computer Science, majoring in Cybersecurity, at Swinburne University.
 
 I love building small terminal applications for my own personal enjoyment (e.g. Generators for TTRPG's), and learning new programming languages.
 
