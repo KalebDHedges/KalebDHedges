@@ -6,9 +6,10 @@ I love building small terminal applications for my own personal enjoyment (e.g. 
 
 My main exposure to programming at large has been through self-learning prior to university (where I dabbled in arcane languages like *Common Lisp* and *Ada 2012*, as well as a little game development in *C++*) and then the university itself which has mainly comprised of elementary *C++*, *C#*, *JavaScript*, and *PHP*.
 
-Overall my developer skills are currently quite lacking:
-- I am working on improving them but there are some areas that are taking longer than others (Mathematics).
+Overall I am working on developing my developer skills:
+- I am working on improving them but there are some areas that are taking longer than others (Mathematics is a particular weak point).
 - I dont wish to rely on frameworks (I wish to have a solid programming foundation, upon which the frameworks can improve my productivity and workflow).
+  - Hence learn JS really well instead of jumping right in to Angular or React as an example. 
 
 ## 🔭 I’m currently working on:
 - A small repo containing most of the Data Structures from the MIT Press Algorithms textbook.
