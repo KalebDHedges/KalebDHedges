@@ -9,11 +9,6 @@ My main exposure to programming at large has been through self-learning prior to
 Overall I am working on developing my developer skills:
 - I am working on improving them but there are some areas that are taking longer than others (Mathematics is a particular weak point).
 - I dont wish to rely on frameworks (I wish to have a solid programming foundation, upon which the frameworks can improve my productivity and workflow).
-  - Hence learn JS really well instead of jumping right in to Angular or React as an example. 
-
-## 🔭 I’m currently working on:
-- A small repo containing most of the Data Structures from the MIT Press Algorithms textbook.
-  - I wish to do this in all four of my primary languages. 
 
 ## 🌱 My Current Goals:
 - Develop my understanding of data structures and design patterns.
@@ -48,18 +43,3 @@ Overall I am working on developing my developer skills:
 ## 📫 My Socials:
 - Twitter: https://twitter.com/CoMFA_JNSP
 - GitHub: https://github.com/KalebDHedges
-
-<!--
-**KalebDHedges/KalebDHedges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🕷 I'm currently learning/devoting most of my time to Reverse Engineering.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
