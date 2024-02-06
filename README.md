@@ -19,24 +19,20 @@ Overall I am working on developing my developer skills:
 - _C++_
 - _C#_
 - _Python_
-- _JavaScript_
 - _PHP_
 
 ## 💻 My current plans for language learning:
 - **Primary**:
   - **.NET**:
     - _C#_: Getting stuff done.
-    - _F#_: Functional programming.
+    - _F#_: Functional programming and small scripts.
   - **Web Dev**:
-    - _JavaScript_ : Cant avoid it.
     - _PHP_ : I enjoyed using it at Uni.
   - **Others**:
     - _C++_ : Systems programming / primary language.
     - _Python_ : Great for getting small quick scripts going
 - **Secondary**:
   - **Just for Fun**:
-    - _Odin_ : I have enjoyed dabbling with Odin so far will be fun to see it grow.
-    - _Zig_ : Same as Odin I enjoyed dabbling with it and can see potential in it.
     - _Clojure_ : I enjoyed playing with Clojure. Lisp languages are great and having the JVM on top was fun.
     - _PowerShell 7_ : A terminal/cmd language to allow me to better utilise my systems.
 
