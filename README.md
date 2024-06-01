@@ -1,7 +1,9 @@
 # Hi! I'm Kaleb Hedges.
 
 Recent CompSci/CyberSec Grad at Swinburne Uni.
+
 Love building small terminal applications (e.g. Generators for TTRPG's).
+
 Main exposure to programming at has been through self-learning prior to uni (dabbled in arcane languages like *Common Lisp* and *Ada 2012*) and uni itself which has mainly comprised of foundational *C++*, *C#*, *JavaScript*, and *PHP*.
 
 Overall I am working on developing my developer skills:
