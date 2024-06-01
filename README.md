@@ -1,18 +1,16 @@
 # Hi! I'm Kaleb Hedges.
 
-I have just completed my bachelor of Computer Science, majoring in Cybersecurity, at Swinburne University.
-
-I love building small terminal applications for my own personal enjoyment (e.g. Generators for TTRPG's), and learning new programming languages.
-
-My main exposure to programming at large has been through self-learning prior to university (where I dabbled in arcane languages like *Common Lisp* and *Ada 2012*, as well as a little game development in *C++*) and then the university itself which has mainly comprised of elementary *C++*, *C#*, *JavaScript*, and *PHP*.
+Recent CompSci/CyberSec Grad at Swinburne Uni.
+Love building small terminal applications (e.g. Generators for TTRPG's).
+Main exposure to programming at has been through self-learning prior to uni (dabbled in arcane languages like *Common Lisp* and *Ada 2012*) and uni itself which has mainly comprised of foundational *C++*, *C#*, *JavaScript*, and *PHP*.
 
 Overall I am working on developing my developer skills:
-- I am working on improving them but there are some areas that are taking longer than others (Mathematics is a particular weak point).
-- I dont wish to rely on frameworks (I wish to have a solid programming foundation, upon which the frameworks can improve my productivity and workflow).
+- My main weak point is mathematics. I understand the basics probably up to a Math Methods standard but after that I drop off pretty quick.
+- Dont care for frameworks (would rather have solid programming foundations, and then use frameworks to help with productivity).
 
 ## 🌱 My Current Goals:
 - Develop my understanding of data structures and design patterns.
-- Developing my skills in *C/C++*, *C#*, *Python*, and *.NET*.
+- Developing my skills in *C/C++*, *C#*, *Zig*, and *.NET*.
 - Attempting to enter the workforce.
 
 ## 🔭 The Languages I have the most experience with (Sorted by exposure):
@@ -23,18 +21,13 @@ Overall I am working on developing my developer skills:
 
 ## 💻 My current plans for language learning:
 - **Primary**:
-  - **.NET**:
-    - _C#_: Getting stuff done.
-    - _F#_: Functional programming and small scripts.
-  - **Web Dev**:
-    - _PHP_ : I enjoyed using it at Uni.
-  - **Others**:
-    - _C++_ : Systems programming / primary language.
-    - _Python_ : Great for getting small quick scripts going
+  - _C#_: Getting stuff done.
+  - _C++_ : Systems programming / primary language.
+  - _Python_ : Great for getting small quick scripts going
 - **Secondary**:
-  - **Just for Fun**:
-    - _Clojure_ : I enjoyed playing with Clojure. Lisp languages are great and having the JVM on top was fun.
-    - _PowerShell 7_ : A terminal/cmd language to allow me to better utilise my systems.
+  - _Clojure_ : I enjoyed playing with Clojure. Lisp languages are great and having the JVM on top was fun.
+  - _PowerShell 7_ : A terminal/cmd language to allow me to better utilise my systems.
+  - _Zig_: Even though it is still in an unstable stage it is quickly becoming my favourite systems lang.
 
 ## 📫 My Socials:
 - Twitter: https://twitter.com/CoMFA_JNSP
