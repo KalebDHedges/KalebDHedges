@@ -32,5 +32,5 @@ Overall I am working on developing my developer skills:
   - _Zig_: Even though it is still in an unstable stage it is quickly becoming my favourite systems lang.
 
 ## 📫 My Socials:
-- Twitter: https://twitter.com/CoMFA_JNSP
+- Twitter: https://x.com/CoMFA_Honoka
 - GitHub: https://github.com/KalebDHedges
